@@ -1,0 +1,14 @@
+net.abyssdev.spoof.api
+net.abyssdev.spoof.api.channel
+net.abyssdev.spoof.api.channel.encoder
+net.abyssdev.spoof.api.data
+net.abyssdev.spoof.api.data.controller
+net.abyssdev.spoof.api.data.controller.proxy
+net.abyssdev.spoof.api.data.controller.server
+net.abyssdev.spoof.api.data.server
+net.abyssdev.spoof.api.event
+net.abyssdev.spoof.api.nms
+net.abyssdev.spoof.api.player
+net.abyssdev.spoof.api.plugin
+net.abyssdev.spoof.api.provider
+net.abyssdev.spoof.api.registry
